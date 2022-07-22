@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-repository: WeCARe-Workshop/wecare-workshop.github.io
-title: WeCARe
+repository: https://github.com/a3ws/AutoUI22/
+title: "A3WS: International Perspective on Inclusive eHMIs"
 email: ""
-description: "Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users."
+description: "Accessible Automated Automotive Workshop Series (A3WS): International Perspective on Inclusive External Human-Machine Interfaces."
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -96,8 +96,8 @@ author:
   #name   : "WeCARe"
   avatar : "/android-chrome-512x512.png"
   bio    : >- 
-    **W**orkshop on Inclusiv**e** **C**ommunication between **A**utomated Vehicles and Vulnerable **R**oad Us**e**rs. 
-    *In conjunction with [MobileHCI 2020](https://mobilehci.acm.org/2020/), October 5-9, **Now Virtual***.
+    A3WS: International Perspective on Inclusive eHMIs. 
+    *In conjunction with [AutomotiveUI 2022](https://www.auto-ui.org/22/), September 17, Seoul, South Korea.
   # links:
   #   - label: "Participants must **submit a position paper before July, 2nd**."
   #     icon: "fas fa-fw fa-link"

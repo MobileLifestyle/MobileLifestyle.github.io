@@ -10,7 +10,7 @@ sidebar:
         <li><b>Submissions</b>:<br/>TBA</li>
         <li><b>Notifications</b>:<br/>TBA</li>
         <li><b>Camera-Ready Versions</b>:<br/>TBA</li>
-        <li><b>Workshop Day</b>: <br/> September, 17th (see <a href='../Schedule'>Schedule</a>)</li>
+        <li><b>Workshop Day</b>: <br/> September, 17th (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
 ---
 

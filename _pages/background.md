@@ -9,7 +9,7 @@ sidebar:
 header:
   image: /assets/images/ehmis_wide.png
   alt: "Example eHMIs from a VRU's perspective."
-  caption: "Example eHMIs from a VRU's perspective as discussed in [[22](/References/#ref22)]."
+  caption: "Example eHMIs from a VRU's perspective as discussed in [[22](../References/#ref22)]."
 
 ---
 

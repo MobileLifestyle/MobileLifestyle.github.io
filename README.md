@@ -1,7 +1,7 @@
 [![pages-build-deployment](https://github.com/WeCARe-Workshop/wecare-workshop.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/WeCARe-Workshop/wecare-workshop.github.io/actions/workflows/pages/pages-build-deployment)
 
-# WeCARe Workshop
-This is the GitHub repository where we store the website and accepted papers for our 2020 Workshop on Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users at MobileHCI: http://wecare-workshop.github.io
+# A3WS Workshop - International Perspective on Inclusive External Human-Machine Interfaces
+This is the GitHub repository where we store the website and accepted papers for our 2022 instance of our workshop series "Accessible Automated Automotive Workshop Series (A3WS)" on "International Perspective on Inclusive External Human-Machine Interfaces" at AutomotiveUI 2022: https://a3ws.github.io/AutoUI22/
 
 **Template files are based on https://github.com/mmistakes/minimal-mistakes** (MIT licence)
 

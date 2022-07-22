@@ -22,7 +22,7 @@ repository: https://github.com/a3ws/AutoUI22/
 title: "A3WS"
 email: ""
 description: "Accessible Automated Automotive Workshop Series (A3WS): International Perspective on Inclusive External Human-Machine Interfaces."
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/AutoUI22" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -118,7 +118,7 @@ footer:
   links:
     - label: "Impressum"
       icon: "fa fa-fw fa-info"
-      url: "Impressum/"
+      url: "{{ site.baseurl }}/Impressum/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       url: "https://github.com/"

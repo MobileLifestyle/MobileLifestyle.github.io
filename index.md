@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WeCARe"
+title: "Accessible Automated Automotive Workshop Series (A3WS)"
 #layout: single
 classes: wide
 layout: home
@@ -23,16 +23,17 @@ gallery:
     title: "<a href='https://www.flickr.com/photos/yourdon/3050394176/' target='_blank'>Crossing the street</a> (<a href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'>CC BY-NC-SA 2.0</a>) by <a href='https://www.flickr.com/people/yourdon/' target='_blank'>Ed Yourdon</a>."
 
 ---
-<p> <span style="font-size: 1.5em">Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users </span><br/>
-In conjunction with MobileHCI 2020, October 5-9, Virtual Conference.</p>
+<p> <span style="font-size: 1.5em">International Perspective on Inclusive External Human-Machine Interfaces</span><br/>
+In conjunction with AutomotiveUI 2022, September 17, Seoul, South Korea.</p>
 
 <!-- **Note:** Participants must submit a position paper before the workshop. See [Participate](/Participate) for more details.
 {: .notice--danger} -->
 
 {% include gallery caption="Communication concepts for automated vehicles exist (left). But, are they inclusive for all vulnerable road users, including, for example, blind people (center) or older adults (right)?" %}
 
-Automated vehicles are expected to become a part of the road traffic in the near future. This upcoming change raises concerns on how human road users, e.g., cyclists or pedestrians, would interact with them to ensure safe communication on the road. 
-Previous work focused primarily on the scenario in which a young adult without impairments crosses a street in front of an automated vehicle. Several road user groups, such as children, seniors, or people with special needs, in roles of pedestrians and cyclists, are not considered in this scenario. On top of this, cultural differences are rarely considered. 
+The fact that automated vehicles will be part of road traffic raises the question of how human road users, like bicyclists or pedestrians, would safely interact with them. 
 
-To ensure that future traffic is safe and accessible for all citizens, we aim to address inclusive communication between automated vehicles and vulnerable road users. 
-In this workshop, we will discuss and exchange methods, tools, and scenarios applicable for inclusive communication, identify the most relevant research gaps, and connect people for future collaborations. 
+Research has proposed external human-machine interfaces (eHMIs) for automated vehicles as a potential solution. Concept prototypes and evaluations so far have mainly focused on young, healthy adults and people without disabilities, such as visual impairments. 
+For a "one-for-all" holistic, inclusive solution, however, further target groups like children, seniors, or people with (other) special needs will have to be considered. 
+
+In this workshop, we bring together researchers, experts, and practitioners working on eHMIs to broaden our perspective on inclusiveness. We aim to identify aspects of inclusive eHMI design that can be universal and tailored to any culture and will focus on discussing methods, tools, and scenarios for inclusive communication.

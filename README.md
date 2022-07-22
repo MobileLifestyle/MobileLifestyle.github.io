@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/WeCARe-Workshop/wecare-workshop.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/WeCARe-Workshop/wecare-workshop.github.io/actions/workflows/pages/pages-build-deployment)
+
 # WeCARe Workshop
 This is the GitHub repository where we store the website and accepted papers for our 2020 Workshop on Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users at MobileHCI: http://wecare-workshop.github.io
 

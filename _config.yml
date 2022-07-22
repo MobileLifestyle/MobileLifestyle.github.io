@@ -28,18 +28,11 @@ description: "Workshop on Inclusive Communication between Automated Vehicles and
 #github_username:  jekyll
 
 # Build settings
-#theme: minima
-# plugins:
-# #  - jekyll-feed
-# #  - jekyll-scholar
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jemoji
-#   - jekyll-include-cache
-
-#scholar:
-#  style: apa
+#theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -62,18 +55,18 @@ description: "Workshop on Inclusive Communication between Automated Vehicles and
 #   - vendor/ruby/
 
 
-
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -93,15 +86,15 @@ include:
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
+  # - jekyll-sitemap
+  # - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jemoji
   - jekyll-include-cache
 
 author:
   #name   : "WeCARe"
-  #avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/android-chrome-512x512.png"
   bio    : >- 
     **W**orkshop on Inclusiv**e** **C**ommunication between **A**utomated Vehicles and Vulnerable **R**oad Us**e**rs. 
     *In conjunction with [MobileHCI 2020](https://mobilehci.acm.org/2020/), October 5-9, **Now Virtual***.
@@ -119,7 +112,7 @@ author:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-announcement: "[Register for the Workshop via MobileHCI.](https://mobilehci.acm.org/2020/registration/){: .align--left .btn .btn--info .btn--large }"
+#announcement: "[Register for the Workshop via MobileHCI.](https://mobilehci.acm.org/2020/registration/){: .align--left .btn .btn--info .btn--large }"
 
 footer:
   links:
@@ -142,9 +135,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      #comments: true
       share: true
-      related: true
+      #related: true
   # _pages
   - scope:
       path: "_pages"
@@ -153,12 +146,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 
 compress_html:
   clippings: all

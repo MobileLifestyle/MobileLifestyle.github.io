@@ -3,6 +3,7 @@ permalink: /
 title: "WeCARe"
 #layout: single
 classes: wide
+layout: home
 author_profile: true
 
 

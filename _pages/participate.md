@@ -6,16 +6,12 @@ classes: wide
 #author_profile: false
 sidebar:
 - title: "Deadlines"
-- text: "<ul><li><b>Early Bird Submissions</b>:<br/> <del>July 2nd</del> August 6th.</li>
-        <li><b>Early Bird Notifications</b>:<br/><del>July 23rd</del> August 14th</li>
-        <li><b>Late Submissions</b>:<br/> September 25th</li>
-        <li><b>Late Notifications</b>:<br/>September 29th</li>
-        <li><b>Camera-Ready Versions and Videos</b>:<br/>October 1st</li>
-        <li><b>Workshop Schedule</b>: <br/> Four 60-minute blocks between October 5th and 7th (see <a href='./Schedule'>Schedule</a>)</li></ul>"
-#<li><b>Camera-Ready Versions</b>:<br/><del>August 7th</del> , 2020</li>
-# <!-- * **Early Registration**: August 19th??, 2020 -->
-# <!-- * **Submission of Presentations**: Ocotber 1st, 2020 -->
-
+- text: "<ul>
+        <li><b>Submissions</b>:<br/>TBA</li>
+        <li><b>Notifications</b>:<br/>TBA</li>
+        <li><b>Camera-Ready Versions</b>:<br/>TBA</li>
+        <li><b>Workshop Day</b>: <br/> September, 17th (see <a href='../Schedule'>Schedule</a>)</li>
+        </ul>"
 ---
 
 This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users. 
@@ -30,21 +26,12 @@ You have three options for participation:
 * Only submit a three-minute video (see below)
 * Participate without presenting your position (no submissions needed). 
 
-Please register for the workshop via the [MobileHCI website: mobilehci.acm.org/2020/registration/](https://mobilehci.acm.org/2020/registration/). 
-Based on the feedback we received so far, the process may be a bit unclear. These are the steps required if you want to participate in the workshop, but not at the MobileHCI conference (though we highly recommend also to attend the conference ;) ): 
-1. Click the link at the top of the page. It sends you to the registration via cvent.com. 
-1. Select if you are an ACM member or not by clicking the corresponding button at the bottom.
-1. Enter your name and e-mail address. If you are an ACM member, this needs to be the primary address of your ACM account. If you are not an ACM member, you'll need to select if you are a student ("Student Non-Member") or not ("Non-Member").
-1. Enter data about your affiliation, title, and contact details.
-1. Enter personal information and preferences.
-1. If you want only to attend the workshop: select "Free Registration".
-1. Our workshop is "Workshop 8". **Select the "WS8" option for 30€**, not the one for 80€, even if you have an accepted submission at our workshop. 
-1. Now you'll get a summary and can proceed to the payment. 
+Please register for the workshop via the [AutomotiveUI website: auto-ui.org/22/attend/registration](https://www.auto-ui.org/22/attend/registration/). 
 
 ## Paper / Video Submission
 Participants are invited to submit three-minute videos or position papers. 
 Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** before the beginning of the workshop but not in the ACM Digital Library. 
-The generated PDF should be submitted via [EasyChair (easychair.org/conferences/?conf=wecare2020)](https://easychair.org/conferences/?conf=wecare2020). 
+The generated PDF should be submitted via EasyChair (link to follow). <!-- [EasyChair (easychair.org/conferences/?conf=wecare2020)](https://easychair.org/conferences/?conf=wecare2020). -->
 
 ### Paper Format 
 A paper must be between two and four pages long, not including references, in the [ACM Conference Proceedings "Master" Template](https://www.acm.org/publications/taps/word-template-workflow). 
@@ -53,7 +40,7 @@ In LaTeX, the single-column version of the template is defined by using the foll
 \documentclass[manuscript,screen,nonacm]{acmart}
 ```
 The CCS-concepts can be removed. 
-The paper needs to be submitted as a PDF file and should resemble this example file: [Example_Paper.pdf](/assets/ACM_Conference_Proceedings_Example.pdf).
+The paper needs to be submitted as a PDF file and should resemble this example file: [Example_Paper.pdf](../assets/ACM_Conference_Proceedings_Example.pdf).
 
 ### Video Format
 To submit a video, authors must create a PDF file containing their names, the title of the video, and the URL to the video file. 
@@ -64,7 +51,7 @@ Video contents are expected to contain captions for increased accessibility.
 Authors are free to structure their videos as they see fit, as long as they stay within three minutes. 
 For example, a simple way to create a video could be to record a Pecha-Kucha style presentation [[3](/References/#ref3)]. 
 Videos should not contain advertisements or be heavily promotional. 
-The prepared PDF should be submitted via Easychair and resemble this example file: [Example_Video.pdf](/assets/Video_Example.pdf).
+The prepared PDF should be submitted via Easychair and resemble this example file: [Example_Video.pdf](../assets/Video_Example.pdf).
 
 ## Goals of the Workshop
 We intend to achieve the following goals with this workshop:
@@ -88,14 +75,7 @@ Potential topics to be discussed at the workshop include, but are not limited to
 ## Tools Used at the Workshop
 This workshop will be held remotely. It is important that participants test their tools and devices for a smooth event. 
 Below, we list the currently planned tools that will be used during the workshop. 
-If you see problems with these tools, feel free to contact us (see [Organizers](/Organizers) for contact details). 
-
-### Video Conferencing
-We plan to use [Zoom](https://zoom.us/) as video-conferencing. It will be used throughout the workshop to connect the participants. We will also use the break-out feature when we need to split our participants into smaller groups for discussions. 
-
-### Whiteboard 
-We plan to use [Miro](https://miro.com/) as online whiteboard. 
-It will be used to collect and cluster ideas from participants in the interactive parts of the workshop. 
+If you see problems with these tools, feel free to contact us (see [Organizers](../Organizers) for contact details). 
 
 ### (Asynchronous) Communication
-We plan to use [Slack](https://slack.com/) as communication platform for discussion between the sessions or after the workshop. 
+We plan to use [Slack](https://slack.com/) as communication platform for discussion before or after the workshop. 

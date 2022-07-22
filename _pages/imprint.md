@@ -17,11 +17,12 @@ E-Mail: andreas.loecken@<span style="display:none;">thisisnotpartofthedomain-</s
 
 ## Datenschutzerklärung
 Auf dieser Webseite werden keine personenbezogenen Daten erhoben, gespeichert oder verarbeitet. Es werden keine Cookies verwendet. 
-Allerdings kann GitHub persönliche Benutzerdaten von Besuchern dieser Webseite sammeln, einschließlich Protokolle der IP-Adressen der Besucher, um gesetzliche Verpflichtungen zu erfüllen und die Sicherheit und Integrität der Webseite und des Dienstes aufrechtzuerhalten (*>>GitHub may collect User Personal Information from visitors to your GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service.<< [[GitHub Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement#additional-services)]*).
+Allerdings protokolliert und speichert GitHub die IP-Adressen von Besucher\*innen aus Sicherheitsgründen, wenn eine GitHub Pages-Website aufgerufen wird. Dies geschieht unabhängig davon, ob Besucher\*innen sich bei GitHub angemeldet hat oder nicht. 
+(*>>When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not.<< [[About GitHub Pages - Data collection](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection)]*).
 
 ## Verweis auf Dritte
 Diese Website wird auf [GitHub](https://github.com/) als [GitHub Page](https://help.github.com/en/github/working-with-github-pages) gehostet. 
-Das [Github Privacy Statement](https://help.github.com/en/github/site-policy/github-privacy-statement) ist [hier](https://help.github.com/en/github/site-policy/github-privacy-statement) hinterlegt. 
+Das [Github Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) ist [hier](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) hinterlegt. 
 
 ## Disclaimer – Rechtliche Hinweise
 ### § 1 Warnhinweis zu Inhalten

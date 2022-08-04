@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-repository: https://github.com/a3ws/AutoUI22/
+repository: a3ws/AutoUI22
 title: "A3WS"
 email: ""
 description: "Accessible Automated Automotive Workshop Series (A3WS): International Perspective on Inclusive External Human-Machine Interfaces."
@@ -94,7 +94,7 @@ plugins:
 
 author:
   #name   : "WeCARe"
-  avatar : "/android-chrome-512x512.png"
+  avatar : "/assets/images/a3ws_logo.png"
   bio    : >- 
     A3WS: International Perspective on Inclusive eHMIs. 
     *In conjunction with [AutomotiveUI 2022](https://www.auto-ui.org/22/), September 17, Seoul, South Korea.*

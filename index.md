@@ -8,9 +8,9 @@ author_profile: true
 
 
 gallery:
-  - url: /assets/images/ehmis.png
-    image_path: /assets/images/ehmis_thumb.jpg
- #   alt: "Example eHMIs from a VRU's perspective."
+  - url: /assets/images/Interactive_Road.png
+    image_path: /assets/images/Interactive_Road_thumb.png
+    alt: "Example eHMIs from a VRU's perspective."
     title: "Example eHMIs from a VRU's perspective as discussed in [<a href='/References/#ref22'>22</a>]."
   - url: /assets/images/blind_pedestrian.jpg
     image_path: /assets/images/blind_pedestrian_thumb.jpg
@@ -25,9 +25,6 @@ gallery:
 ---
 <p> <span style="font-size: 1.5em">International Perspective on Inclusive External Human-Machine Interfaces</span><br/>
 In conjunction with AutomotiveUI 2022, September 17, Seoul, South Korea.</p>
-
-<!-- **Note:** Participants must submit a position paper before the workshop. See [Participate](/Participate) for more details.
-{: .notice--danger} -->
 
 {% include gallery caption="Communication concepts for automated vehicles exist (left). But, are they inclusive for all vulnerable road users, including, for example, blind people (center) or older adults (right)?" %}
 

@@ -1,15 +1,15 @@
 <!-- start custom head snippets -->
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2d89ef">
+<link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/favicon-16x16.png">
+<link rel="manifest" href="{{site.baseurl}}/site.webmanifest">
+<link rel="mask-icon" href="{{site.baseurl}}/safari-pinned-tab.svg" color="#2d89ef">
 <meta name="msapplication-TileColor" content="#2d89ef">
 <meta name="theme-color" content="#ffffff">
 
 <!-- replace timezones-->
-<script>
+<!-- <script>
     function customUtcToLocalTime(year, month, day, hour, minute, id_) {
         // convert to cest
         //let timeslotDate = new Date(Date.parse(timeslotStr)); // seems to not work reliably
@@ -21,5 +21,5 @@
         let options = { hourCycle: 'h24', weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short' };
         slot.innerHTML = "<i><small><br/>(In your timezone: " + timeslotDate.toLocaleDateString("en-US", options) + ")</small></i>";
     }
-</script>
+</script> -->
 <!-- end custom head snippets -->

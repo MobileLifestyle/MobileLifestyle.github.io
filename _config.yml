@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 repository: a3ws/AutoUI22
-title: "A3WS"
+title: "A3WS@AutoUI22"
 email: ""
 description: "Accessible Automated Automotive Workshop Series (A3WS): International Perspective on Inclusive External Human-Machine Interfaces."
 baseurl: "/AutoUI22" # the subpath of your site, e.g. /blog

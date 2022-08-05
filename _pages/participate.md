@@ -7,10 +7,10 @@ classes: wide
 sidebar:
 - title: "Deadlines"
 - text: "<ul>
-        <li><b>Submissions</b>:<br/>TBA</li>
-        <li><b>Notifications</b>:<br/>TBA</li>
-        <li><b>Camera-Ready Versions</b>:<br/>TBA (shortly before the workshop)</li>
-        <li><b>Workshop Day</b>: <br/> September, 17th (see <a href='Schedule'>Schedule</a>)</li>
+        <li><b>Submissions</b>:<br/>August, 22nd</li>
+        <li><b>Notifications</b>:<br/>August, 31st</li>
+        <li><b>Camera-Ready Versions</b>:<br/>September, 13th</li>
+        <li><b>Workshop Day</b>: <br/> September, 18th (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
 ---
 

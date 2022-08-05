@@ -8,7 +8,7 @@ sidebar:
 - text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>09:00</td>        <td><i>Welcome</i></td>      </tr>      <tr>        <td>09:10</td>        <td>Setting the stage</td>      </tr>      <tr>        <td>09:20</td>        <td>Mini tutorials</td>      </tr>      <tr>        <td>09:50</td>        <td>World Café (Part 1)</td>      </tr>      <tr>        <td>10:30</td>        <td>Lightning Talks</td>      </tr>      <tr>        <td>11:00</td>        <td><i>Break</i></td>      </tr>      <tr>        <td>11:30</td>        <td>World Café (Part 2)</td>      </tr>      <tr>        <td>12:10</td>        <td>Table summaries</td>      </tr>      <tr>        <td>12:30</td>        <td>Wrap-up</td>      </tr>      <tr>        <td>13:00</td>        <td><i>End</i></td>      </tr>      </tbody>  </table>
 
 gallery:
-  - url: /assets/images/lightningtalk.JPG
+  - url: /assets/images/lightningtalk.jpg
     image_path: /assets/images/lightningtalk_thumb.jpg
     alt: "A short presentation (lightning talk) on an exciting topic."
     title: "A short presentation (lightning talk) on an exciting topic."

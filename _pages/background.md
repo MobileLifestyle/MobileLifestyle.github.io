@@ -7,7 +7,7 @@ sidebar:
 - text: "<p><b>Automated Vehicles (AVs)</b>: Vehicles that provide some level of automation, thereby reducing the effort of the human driver for the primary driving task. In this workshop, we focus on AVs that do not need an attentive driver at all times, thus SAE Levels 3 and above.</p>
 <p><b>Vulnerable Road Users (VRUs)</b>: Non-motorized road users, such as pedestrians and cyclists, motorcyclists, and persons with disabilities, reduced mobility, or reduced orientation. This workshop specifically focuses on VRUs like children, older adults or people with impairments.</p>"
 header:
-  image: /assets/images/ehmis.png
+  image: /assets/images/ehmis.jpg
   alt: "Example eHMIs from a VRU's perspective."
   caption: "Example eHMIs from a VRU's perspective, as discussed in [[16](../References/#ref16)] and [[19](../References/#ref19)], and a suggestion by [DALL-E](https://labs.openai.com/s/n0exiQaJInJTGlYDCYF28W88)."
 

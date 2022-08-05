@@ -8,8 +8,8 @@ author_profile: true
 
 
 gallery:
-  - url: /assets/images/Interactive_Road.png
-    image_path: /assets/images/Interactive_Road_thumb.png
+  - url: /assets/images/Interactive_Road.jpg
+    image_path: /assets/images/Interactive_Road_thumb.jpg
     alt: "Example eHMIs from a VRU's perspective."
     title: "Example eHMIs from a VRU's perspective as discussed in [<a href='/References/#ref22'>22</a>]."
   - url: /assets/images/blind_pedestrian.jpg

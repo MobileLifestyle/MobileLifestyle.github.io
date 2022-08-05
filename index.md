@@ -24,7 +24,7 @@ gallery:
 
 ---
 <p> <span style="font-size: 1.5em">International Perspective on Inclusive External Human-Machine Interfaces</span><br/>
-In conjunction with AutomotiveUI 2022, September 17, Seoul, South Korea.</p>
+In conjunction with AutomotiveUI 2022, September 18, Seoul, South Korea.</p>
 
 {% include gallery caption="Communication concepts for automated vehicles exist (left). But, are they inclusive for all vulnerable road users, including, for example, blind people (center) or older adults (right)?" %}
 

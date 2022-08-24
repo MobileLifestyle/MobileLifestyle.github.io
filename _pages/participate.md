@@ -29,7 +29,7 @@ Please register for the workshop via the [AutomotiveUI website: auto-ui.org/22/a
 ## Paper 
 Participants are invited to submit position papers, but are not required to do so. 
 Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** on this website but not in the ACM Digital Library. 
-The generated PDF should be submitted via EasyChair (link to follow). <!-- [EasyChair (easychair.org/conferences/?conf=wecare2020)](https://easychair.org/conferences/?conf=wecare2020). -->
+The generated PDF should be submitted via [EasyChair (easychair.org/conferences/?conf=a3wsautoui22)](https://easychair.org/conferences/?conf=a3wsautoui22).
 
 ### Paper Format 
 A paper must be between two and four pages long, not including references, in the newest preview version of [ACM Conference Proceedings "Master" Template version 1.87](https://github.com/a3ws/acmart_workshoptemplate/releases/download/1.87-a3ws/template_1.87.zip). 

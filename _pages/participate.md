@@ -7,9 +7,9 @@ classes: wide
 sidebar:
 - title: "Deadlines"
 - text: "<ul>
-        <li><b>Submissions</b>:<br/>August, 22nd</li>
-        <li><b>Notifications</b>:<br/>August, 31st</li>
-        <li><b>Camera-Ready Versions</b>:<br/>September, 13th</li>
+        <li><b>Submissions</b>:<br/>September, 9th</li>
+        <li><b>Notifications</b>:<br/>September, 14th</li>
+        <li><b>Camera-Ready Versions</b>:<br/>September, 16th</li>
         <li><b>Workshop Day</b>: <br/> September, 18th (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
 ---

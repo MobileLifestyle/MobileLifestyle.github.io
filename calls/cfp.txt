@@ -7,15 +7,14 @@ A3WS - International Perspective on Inclusive External Human-Machine Interfaces
  in conjunction with AutoUI 2022 (https://a3ws.github.io/AutoUI22/)
 
  Workshop website: https://a3ws.github.io/AutoUI22/
- Submission deadline (position paper - not mandatory): August 22th, 2022
+ Submission deadline (position paper - not mandatory): September 9th, 2022
  Submission via EasyChair: https://easychair.org/my/conference?conf=a3wsautoui22 
 -------------------------------------------------------------------------------
 
 
 ---------------------| IMPORTANT DATES FOR THE WORKSHOP |----------------------
-* Submission deadline: August 22th, 2022
-* Notification of acceptance: around 29th, August 2022
-* Camera-ready version due: September 2022
+* Submission deadline: September 9th, 2022
+* Notification of acceptance: September 14th, 2022
 * Workshop date: 18th September, 2022
 
 

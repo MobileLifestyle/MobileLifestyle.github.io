@@ -24,7 +24,7 @@ You have two options for participation:
 * Submit a position paper to present it (see below)
 * Participate without presenting your position (no submissions needed). 
 
-Please register for the workshop via the [AutomotiveUI website: auto-ui.org/22/attend/registration](https://www.auto-ui.org/22/attend/registration/). 
+There is no dedicated registration for workshops but you need to register for the conference via the [AutomotiveUI website: auto-ui.org/22/attend/registration](https://www.auto-ui.org/22/attend/registration/). Just come in to D407 to join our workshop (Engineering Hall 4, Yonsei University, Yonsei-ro 50, Seodaemun-gu, Seoul, South Korea).
 
 ## Paper 
 Participants are invited to submit position papers, but are not required to do so. 

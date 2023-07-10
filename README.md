@@ -45,7 +45,7 @@ ex. "edu", "eu", "de", "com"
 ## How to edit references
 -  Explorer -> AUTOUI23 -> _pages -> references.md
 -  Replace the citation after "<a name="ref1"></a>" with first citation.
--  Repeat with the rest. ref1 will be ref2 for second citation and so on.
+-  Repeat with the rest. ref 1 is gthe first reference, ref2 for second citation and so on.
 To make the link of citation work on website and take you to the article
 - Paste <a href="ex_of_a_link" target="_blank"> ex_of_a_link</a> to replace your link.
 - Copy the link of the article of the citation you want, and paste it to replace both "ex_of_a_link"'s

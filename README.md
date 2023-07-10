@@ -30,7 +30,7 @@ ex. "gmail.", "cornell."
 - Replace what comes after the period in the email address with what comes after the period of the email you want to use.
 ex. "edu", "eu", "de", "com"
 
-## How to edit Schedule
+## How to edit schedule
 -  Explorer -> AUTOUI23 -> _pages -> schedule.md
 -  You will see <td>Time</td>, with "Time" being a time. 
 - Replace "Time" on code with a time you want.

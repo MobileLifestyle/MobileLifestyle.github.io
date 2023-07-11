@@ -10,6 +10,48 @@ They are **not** free for modification or to be used in other projects.
 
 Please contact us if you want to use (parts of) this project. 
 
+# How to edit website
+- Open your terminal and type in "bundle exec jekyll serve" and press enter.
+- Copy the server address it shows and paste into search bar, to open up the preview of the website.
+- Go to Visual Studio Code and open up the folder named AUTOUI23.
+- Go to the explorer tab to navigate which page you want to edit.
+- Go to Run and Debug to run the code, and see what you did on the website you ran locally after you edit the code, if you want to see what you did. 
+
+
+## How to edit organizers
+-  Explorer -> AUTOUI23 -> _pages -> organizers.md
+-  Switch the name between the two **'s out for name you want.
+-  Replace the backgrounds of the previous organizers with the backgrounds you want. (Can find them in the research paper)
+
+For contact info:   
+- Replace the name of email before @ of email address with the name you want.
+- Replace the name of the email company of the email address, with the one on the email you want to put, but make sure to include the period after the comapny name
+ex. "gmail.", "cornell."
+- Replace what comes after the period in the email address with what comes after the period of the email you want to use.
+ex. "edu", "eu", "de", "com"
+
+## How to edit schedule
+-  Explorer -> AUTOUI23 -> _pages -> schedule.md
+-  You will see ```<td>Time</td>```, with "Time" being a time. 
+- Replace the time in the code with a time you want.
+- Do it in order (Order matters) 
+- The first time on the code will show up first on the table ect.
+- You will also see ```<td><i>Event</i></td>,``` with "Event" being a event.
+- Replace "Event" with event wanted.
+- Again, do it in order (Order matters)
+- The first event will show up as the first one the table
+  
+
+## How to edit references
+-  Explorer -> AUTOUI23 -> _pages -> references.md
+-  Replace the citation after ```<a name="ref1"></a>``` with first citation.
+-  Repeat with the rest. ref 1 is gthe first reference, ref2 for second citation and so on.
+- To make the link of citation work on website and take you to the article
+- Paste ```<a href="ex_of_a_link" target="_blank"> ex_of_a_link</a>``` to replace your link.
+- Copy the link of the article of the citation you want, and paste it to replace both "ex_of_a_link"'s
+- If link of citation is not available then don't do it.
+
+
 
 ## Credits
 - Template: [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) by [Michael Rose](https://mademistakes.com/) ([MIT licence](https://github.com/mmistakes/minimal-mistakes#license)).

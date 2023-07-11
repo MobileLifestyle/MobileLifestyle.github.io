@@ -33,10 +33,10 @@ ex. "edu", "eu", "de", "com"
 ## How to edit schedule
 -  Explorer -> AUTOUI23 -> _pages -> schedule.md
 -  You will see ```<td>Time</td>```, with "Time" being a time. 
-- Replace "Time" on code with a time you want.
+- Replace the time in the code with a time you want.
 - Do it in order (Order matters) 
 - The first time on the code will show up first on the table ect.
-- You will also see ```<td><i>Event</i></td>, with "Event"```being a event.
+- You will also see ```<td><i>Event</i></td>,``` with "Event" being a event.
 - Replace "Event" with event wanted.
 - Again, do it in order (Order matters)
 - The first event will show up as the first one the table
@@ -46,10 +46,10 @@ ex. "edu", "eu", "de", "com"
 -  Explorer -> AUTOUI23 -> _pages -> references.md
 -  Replace the citation after ```<a name="ref1"></a>``` with first citation.
 -  Repeat with the rest. ref 1 is gthe first reference, ref2 for second citation and so on.
-To make the link of citation work on website and take you to the article
+- To make the link of citation work on website and take you to the article
 - Paste ```<a href="ex_of_a_link" target="_blank"> ex_of_a_link</a>``` to replace your link.
 - Copy the link of the article of the citation you want, and paste it to replace both "ex_of_a_link"'s
-If link of citation is not available then don't do it.
+- If link of citation is not available then don't do it.
 
 
 

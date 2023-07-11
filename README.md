@@ -11,7 +11,7 @@ They are **not** free for modification or to be used in other projects.
 Please contact us if you want to use (parts of) this project. 
 
 # How to edit website
-- Open your terminal and type in "bundle exec jekyll serve" and press enter.
+- Open your terminal and type in ```bundle exec jekyll serve``` and press enter.
 - Copy the server address it shows and paste into search bar, to open up the preview of the website.
 - Go to Visual Studio Code and open up the folder named AUTOUI23.
 - Go to the explorer tab to navigate which page you want to edit.

@@ -13,11 +13,10 @@ sidebar:
         <li><b>Workshop Day</b>: <br/> September, 18th (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
 ---
-
-This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users. 
-The workshop emphasizes cultural differences, diversity, and inclusive design solutions for the interaction of AVs and VRUs. 
-
-We welcome researchers and practitioners with interest in accessible technology, interactive technologies for children, seniors, or people with impairments, or automotive user interfaces. Specifically, we want to reach those developing interfaces for traffic participants (e.g., pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually impaired people), or external human-machine interfaces for AVs. 
+The workshop focuses on inclusion, which relates not only to accessibility but also to cultural differences and diversity.
+We invite researchers and practitioners from different cultures, backgrounds, and disciplines to explore inclusive
+interaction between AVs and other road users. Their interests may involve inclusion or assistive devices for children,
+seniors, or people with disabilities, but also vehicular user interfaces.
 
 ## Registration
 You have two options for participation: 
@@ -64,11 +63,16 @@ Videos should not contain advertisements or be heavily promotional.
 The prepared PDF should be submitted via Easychair and resemble this example file: [Example_Video.pdf](../assets/Video_Example.pdf). -->
 
 ## Goals of the Workshop
-Building on our previous eHMI workshops [[9](/References/#ref9), [13](/References/#ref13), [18](/References/#ref18), [26](/References/#ref26), [27](/References/#ref27)], we aim to consolidate eHMI concepts with a focus on inclusion, rather than exploring further concepts. We intend to achieve the following:
-1. Raise awareness of the (missing) inclusion in AVs’ (external) communication with VRUs.
-2. Give an overview of the current state of research on inclusive interactions between AVs and VRUs.
-3. Identify research barriers that explain why research on inclusive communication has not increased recently, although this research gap is well known.
-4. Establish and deepen connections between interdisciplinary researchers for future (international) cooperation.
+We aim to explore both design and prototyping methods as well as designs for Vanlife as a surrogate for AVs. We intend
+to achieve the following:
+1. Explore different use cases of (automated) vehicles.
+2. Raise awareness about possible research directions in the field of AVs.
+3. Provide an overview and teach about interaction design.
+4. Facilitate hands-on experience and live feedback in designing Vanlife and interaction methods.
+5. Identify research barriers that explain why research on inclusive communication has not increased recently,
+although this research gap is well known.
+6. Create and deepen connections between interdisciplinary researchers for (international) cooperation.
+7. Finding new prototyping methods for Vanlife.
 
 ### Workshop Themes
 Potential topics to be discussed at the workshop include, but are not limited to: 

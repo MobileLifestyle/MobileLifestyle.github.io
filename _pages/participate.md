@@ -7,10 +7,10 @@ classes: wide
 sidebar:
 - title: "Deadlines"
 - text: "<ul>
-        <li><b>Submissions</b>:<br/>September, 9th</li>
-        <li><b>Notifications</b>:<br/>September, 14th</li>
-        <li><b>Camera-Ready Versions</b>:<br/>September, 16th</li>
-        <li><b>Workshop Day</b>: <br/> September, 18th (see <a href='Schedule'>Schedule</a>)</li>
+        <li><b>Submissions</b>:<br/>Augest 14th, 2023</li>
+        <li><b>Notifications</b>:<br/>Augest 18th, 2023</li>
+        <li><b>Camera-Ready Versions</b>:<br/>September 16th, 2023</li>
+        <li><b>Workshop Day</b>: <br/> September 18th, 2023 (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
 ---
 The workshop focuses on inclusion, which relates not only to accessibility but also to cultural differences and diversity.

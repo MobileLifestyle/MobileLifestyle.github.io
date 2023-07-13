@@ -17,6 +17,10 @@ Please contact us if you want to use (parts of) this project.
 - Go to the explorer tab to navigate which page you want to edit.
 - Go to Run and Debug to run the code, and see what you did on the website you ran locally after you edit the code, if you want to see what you did. 
 
+## How to edit left sidebar tab
+- Explorer &rarr; AUTOUI23 &rarr; _config.yml
+  
+
 
 ## How to edit organizers
 -  Explorer &rarr; AUTOUI23 &rarr; _pages &rarr; organizers.md

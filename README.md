@@ -19,6 +19,9 @@ Please contact us if you want to use (parts of) this project.
 
 ## How to edit left sidebar tab
 - Explorer &rarr; AUTOUI23 &rarr; _config.yml
+
+## How to access pictures
+- Explorer &rarr; AUTOUI23 &rarr; assests &rarr; images
   
 
 

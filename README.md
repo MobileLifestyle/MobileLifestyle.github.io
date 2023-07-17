@@ -11,15 +11,22 @@ They are **not** free for modification or to be used in other projects.
 Please contact us if you want to use (parts of) this project. 
 
 # How to edit website
-- Open your terminal and type in "bundle exec jekyll serve" and press enter.
+- Open your terminal and type in ```bundle exec jekyll serve``` and press enter.
 - Copy the server address it shows and paste into search bar, to open up the preview of the website.
 - Go to Visual Studio Code and open up the folder named AUTOUI23.
 - Go to the explorer tab to navigate which page you want to edit.
 - Go to Run and Debug to run the code, and see what you did on the website you ran locally after you edit the code, if you want to see what you did. 
 
+## How to edit left sidebar tab
+- Explorer &rarr; AUTOUI23 &rarr; _config.yml
+
+## How to access pictures
+- Explorer &rarr; AUTOUI23 &rarr; _site &rarr; assests &rarr; images
+  
+
 
 ## How to edit organizers
--  Explorer -> AUTOUI23 -> _pages -> organizers.md
+-  Explorer &rarr; AUTOUI23 &rarr; _pages &rarr; organizers.md
 -  Switch the name between the two **'s out for name you want.
 -  Replace the backgrounds of the previous organizers with the backgrounds you want. (Can find them in the research paper)
 
@@ -31,7 +38,7 @@ ex. "gmail.", "cornell."
 ex. "edu", "eu", "de", "com"
 
 ## How to edit schedule
--  Explorer -> AUTOUI23 -> _pages -> schedule.md
+-  Explorer &rarr; AUTOUI23 &rarr; _pages &rarr; schedule.md
 -  You will see ```<td>Time</td>```, with "Time" being a time. 
 - Replace the time in the code with a time you want.
 - Do it in order (Order matters) 
@@ -43,7 +50,7 @@ ex. "edu", "eu", "de", "com"
   
 
 ## How to edit references
--  Explorer -> AUTOUI23 -> _pages -> references.md
+-  Explorer &rarr; AUTOUI23 &rarr; _pages &rarr; references.md
 -  Replace the citation after ```<a name="ref1"></a>``` with first citation.
 -  Repeat with the rest. ref 1 is gthe first reference, ref2 for second citation and so on.
 - To make the link of citation work on website and take you to the article

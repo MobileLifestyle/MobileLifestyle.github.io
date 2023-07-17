@@ -10,7 +10,7 @@ classes: wide
 
 **Stacey Li** is a PhD student at Cornell Tech in Information Science. Her previous work is in creating driving simulation systems that enable automotive research. *Contact: sl3326@<span style="display:none;">thisisnotpartofthedomain-</span>cornell.<span style="display:none;">thisnoteither-</span>edu*
 
-**Ilan Mandel** is a PhD student at Cornell Tech. His research examines the reuse and reconfiguration of e-waste and consumer electronics. He has previously worked on studying on passenger in-vehicle interaction. *Contact: im334@<span style="display:none;">thisisnotpartofthedomain-</span>cornell.<span style="display:none;">thisnoteither-</span>edu*
+**Ilan Mandel** is a PhD student at Cornell Tech. His research examines the reuse and reconfiguration of e-waste and consumer electronics. He has previously worked on studying on passenger in-vehicle interaction. *Contact: im334@<span style="display:none;">thisisnotpartofthedomain-</span>cornell.<span style="display:none;">thisnoteither-</span>edu* 
 
 **Annika Stampf** is a PhD student at the University of Ulm in the Institute of Media Informatics. Her research relates to the interaction between passengers and AVs and focuses primarily on conflicts, their recognition, and resolution. *Contact: annika.stampf@<span style="display:none;">thisisnotpartofthedomain-</span>uni-ulm.<span style="display:none;">thisnoteither-</span>de*
 

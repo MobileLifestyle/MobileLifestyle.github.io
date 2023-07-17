@@ -5,7 +5,7 @@ classes: wide
 
 sidebar: 
 - title: "Schedule"
-- text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>9:00</td>        <td><i>Welcome</i></td>      </tr>      <tr>        <td>9:15</td>        <td>Prototyping Methods</td>      </tr>      <tr>        <td>9:30</td>        <td>Introducing Methods</td>      </tr>      <tr>        <td>10:00</td>        <td><i>Break</i></td>      </tr>      <tr>        <td>10:15</td>        <td>Brainstorming</td>      </tr>      <tr>        <td>10:30</td>        <td>Presenting Method</td>      </tr>      <tr>        <td>10:45</td>        <td>Designing Van</td>      </tr>      <tr>        <td>12:15</td>        <td>Presentations</td>      </tr>      <tr>        <td>12:50</td>        <td>Wrap-up</td>      </tr>      <tr>        <td>13:00</td>        <td><i>End</i></td>      </tr>      </tbody>  </table>
+- text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>9:00</td>        <td><i>Welcome</i></td>      </tr>      <tr>        <td>9:15</td>        <td>Prototyping Methods</td>      </tr>      <tr>        <td>9:30</td>        <td>Session 1&colon; Introducing Methods</td>     </tr>      <tr>        <td>10:00</td>        <td><i>Break</i></td>      </tr>      <tr>        <td>10:15</td>        <td>Session 2&colon; Brainstorming</td>      </tr>      <tr>        <td>10:30</td>        <td>Presenting Method</td>      </tr>      <tr>        <td>10:45</td>        <td>Session 3&colon; Designing Van</td>      </tr>      <tr>        <td>12:15</td>        <td>Presentations</td>      </tr>      <tr>        <td>12:50</td>        <td>Wrap-up</td>      </tr>      <tr>        <td>13:00</td>        <td><i>End</i></td>      </tr>      </tbody>  </table>
 
 gallery:
   - url: /assets/images/lightningtalk.jpg
@@ -27,7 +27,7 @@ This may be updated before the workshop.
 Before the conference, participants will receive a welcoming message containing an introduction to the workshop. 
 
 ## At the Workshop
-The workshop schedule is outlined in the sidebar table. We begin with a brief introduction (*Welcome*). We then *set the stage*
+The workshop schedule is outlined in the sidebar table. We begin with a brief introduction from the event organizers (*Welcome*). Professor Wendy Ju will then give a talk about *Prototyping Methods*
 and provide initial thoughts on design methods. Based on these and the proposed design methods of the workshop
 papers, participants will engage in a discussion and use the methods hands-on. We will ask the participants to film how
 they would interact with the prototype and van. The results will be displayed throughout the workshop to stimulate
@@ -43,7 +43,8 @@ Topics:
 3. How do people interact with each prototype?
 4. How do designs differ when using different prototyping and design methods?
 
-After presenting all the designs and videos, we will start wrapping up and have a closing talk.
+After presenting all the designs and videos, we will wrap up with a closing talk.
+
 
 <!--
 <script>

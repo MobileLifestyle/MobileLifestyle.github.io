@@ -29,9 +29,9 @@ In conjunction with AutomotiveUI 2023, September 18, Ingolstadt, Germany.</p>
 
 {% include gallery caption="Communication concepts for automated vehicles exist (left). But, are they inclusive for all vulnerable road users, including, for example, blind people (center) or older adults (right)?" %}
 
-The fact that automated vehicles will be part of road traffic raises the question of how human road users, like bicyclists or pedestrians, would safely interact with them. 
-
-Research has proposed external human-machine interfaces (eHMIs) for automated vehicles as a potential solution. Concept prototypes and evaluations so far have mainly focused on young, healthy adults and people without disabilities, such as visual impairments. 
-For a "one-for-all" holistic, inclusive solution, however, further target groups like children, seniors, or people with (other) special needs will have to be considered. 
-
-In this workshop, we bring together researchers, experts, and practitioners working on eHMIs to broaden our perspective on inclusiveness. We aim to identify aspects of inclusive eHMI design that can be universal and tailored to any culture and will focus on discussing methods, tools, and scenarios for inclusive communication.
+Automated mobility is expected to drastically alter the way people move [[4]({{site.baseurl}}/References/#ref4)]. In the case of automated vehicles (AVs),
+allowing the driver to become a passenger unlocks the capacity for non-driving-related activities such as reading,
+sleeping [[3]({{site.baseurl}}/References/#ref3)], or working [[8]({{site.baseurl}}/References/#ref8)].
+With these changes, the design of AVs as well as the interaction within and with the AVs will change. This workshop,
+therefore, focuses on design methods to sketch the future of interaction design for AVs with a special focus on how this
+translates to and from the phenomenon of Vanlife.

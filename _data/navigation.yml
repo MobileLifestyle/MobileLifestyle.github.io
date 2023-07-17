@@ -5,8 +5,6 @@ main:
     url: /Participate
   - title: "Schedule"
     url: /Schedule
-  - title: "Background"
-    url: /Background/
   - title: "Outcome"
     url: /Outcome/
   - title: "Organizers"

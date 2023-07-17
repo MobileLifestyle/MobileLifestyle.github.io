@@ -10,7 +10,6 @@ Vanlife refers to a lifestyle that may include part- or full-time habitation of 
 </p>"
 header:
   image: /assets/images/AR3.png
-  width: 10
   alt: "Example eHMIs from a VRU's perspective."
   caption: "Example eHMIs from a VRU's perspective, as discussed in [[16](../References/#ref16)] and [[19](../References/#ref19)], and a suggestion by [DALL-E](https://labs.openai.com/s/n0exiQaJInJTGlYDCYF28W88)."
 

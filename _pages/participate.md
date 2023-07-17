@@ -7,8 +7,8 @@ classes: wide
 sidebar:
 - title: "Deadlines"
 - text: "<ul>
-        <li><b>Submissions</b>:<br/>Augest 14th, 2023</li>
-        <li><b>Notifications</b>:<br/>Augest 18th, 2023</li>
+        <li><b>Submissions</b>:<br/>August 14th, 2023</li>
+        <li><b>Notifications</b>:<br/>August 18th, 2023</li>
         <li><b>Camera-Ready Versions</b>:<br/>September 16th, 2023</li>
         <li><b>Workshop Day</b>: <br/> September 18th, 2023 (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
@@ -16,19 +16,22 @@ sidebar:
 The workshop focuses on inclusion, which relates not only to accessibility but also to cultural differences and diversity.
 We invite researchers and practitioners from different cultures, backgrounds, and disciplines to explore inclusive
 interaction between AVs and other road users. Their interests may involve inclusion or assistive devices for children,
-seniors, or people with disabilities, but also vehicular user interfaces.
+seniors, or people with disabilities, but also vehicular user interfaces. 
+
+Whether you're an interior design enthusiast, or seasoned van lifer, this workshop is the perfect platform to explore various prototyping methods and design the perfect interior of a van. Unleash your creativity, receive expert guidance, and connect with a community filled with interesting individuals. Participants who have any interest in van life and or design are welcome to join. 
 
 ## Registration
 You have two options for participation: 
 * Submit a position paper to present it (see below)
 * Participate without presenting your position (no submissions needed). 
 
-There is no dedicated registration for workshops but you need to register for the conference via the [AutomotiveUI website: auto-ui.org/22/attend/registration](https://www.auto-ui.org/22/attend/registration/). Just come in to D407 to join our workshop (Engineering Hall 4, Yonsei University, Yonsei-ro 50, Seodaemun-gu, Seoul, South Korea).
+
+To register for the workshop please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScBMCOIWrQfsISUA3Z47zBlSdPpfKoFzmL4TD-SioOGlIoBNw/viewform?usp=sf_link" target="_blank">google form.</a>
 
 ## Paper 
 Participants are invited to submit position papers, but are not required to do so. 
 Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** on this website but not in the ACM Digital Library. 
-The generated PDF should be submitted via [EasyChair (easychair.org/conferences/?conf=a3wsautoui22)](https://easychair.org/conferences/?conf=a3wsautoui22).
+The generated PDF should be submitted via <a href="https://docs.google.com/forms/d/e/1FAIpQLScBMCOIWrQfsISUA3Z47zBlSdPpfKoFzmL4TD-SioOGlIoBNw/viewform?usp=sf_link" target="_blank">google form.</a>
 
 ### Paper Format 
 A paper must be between two and four pages long, not including references, in the newest preview version of [ACM Conference Proceedings "Master" Template version 1.87](https://github.com/a3ws/acmart_workshoptemplate/releases/download/1.87-a3ws/template_1.87.zip). 

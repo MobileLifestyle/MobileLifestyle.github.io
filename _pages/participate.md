@@ -79,14 +79,18 @@ although this research gap is well known.
 
 ### Workshop Themes
 Potential topics to be discussed at the workshop include, but are not limited to: 
-* Overview of the current state and research gaps in research on interactions between AVs and VRUs 
-* Communication concepts for underrepresented user groups, such as
-  * Children 
-  * People with impaired vision
-  * Older adults
-* Guidelines for inclusive design from related domains, such as
-  * Mobile Human-Computer Interaction
-  * Human-Robot Interaction 
+* Concept of creating a van fit for vanlife 
+  * Life-style
+  * What to include inside
+  * Budget
+* Prototyping and designing methods
+  * Creating new methods
+  * How complicated is it to use
+  * Using and interacting with the prototyping methods
+* Designs
+  * Uniqueness of each design, based on the different prototyping and designing methods used
+* Imagining potential use cases for future vehicles 
+
 
 
 <!-- ## Tools Used at the Workshop

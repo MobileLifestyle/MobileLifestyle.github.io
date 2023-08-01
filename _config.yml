@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-repository: a3ws/AutoUI22
-title: "A3WS@AutoUI22"
+repository: autoui23.github.io
+title: "Prototyping Mobile Lifestyles"
 email: ""
-description: "Accessible Automated Automotive Workshop Series (A3WS): International Perspective on Inclusive External Human-Machine Interfaces."
-baseurl: "/AutoUI22" # the subpath of your site, e.g. /blog
+description: "Prototyping Mobile Lifestyles"
+baseurl: "/autoui23.github.io" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -96,7 +96,7 @@ author:
   #name   : "WeCARe"
   avatar : "/assets/images/a3ws_logo.png"
   bio    : >- 
-    A3WS: International Perspective on Inclusive eHMIs. 
+   
     *In conjunction with [AutomotiveUI 2023](https://www.auto-ui.org/23/), September 18, Ingolstadt, Germany.*
   # links:
   #   - label: "Participants must **submit a position paper before July, 2nd**."

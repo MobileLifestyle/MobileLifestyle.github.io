@@ -1,0 +1,23 @@
+Subject: Call for Participation -  WeCARe - MobileHCI Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users
+
+Dear all,
+In case you have missed the early bird for submission to our virtual Workshop on Inclusive Communication between Automated Vehicles and Vulnerable Road Users (WeCARe), there is still an opportunity to submit contributions and join the workshop!
+
+You are hereby invited to submit a 3-minute video or a position paper with the deadline September 25th, 2020 – anywhere on earth. Please note that you will be notified about the decision on September 29th and – in case of acceptance – will only have until October 1st to upload the video for the presentation.
+The workshop will be held online in conjunction with MobileHCI 2020, October 5-9, 2020 (https://mobilehci.acm.org/2020/). 
+
+This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users. The workshop emphasizes cultural differences, diversity, and inclusive design solutions for the interaction of AVs and VRUs. We welcome researchers and practitioners with interest in accessible technology, interactive technologies for children, seniors, or people with impairments, or automotive user interfaces. Specifically, we want to reach those developing mobile interfaces for traffic participants (e.g., pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually impaired people), or external human-machine interfaces for AVs.
+
+For more information on the workshop and submission, visit the WeCARe website (https://wecare-workshop.github.io/) or reach out to the organizers.
+
+We are looking forward to meeting you virtually in October.
+
+Andreas Löcken, Technische Hochschule Ingolstadt (THI), Germany
+Mark Colley, Ulm University, Germany
+Andrii Matviienko, Technical University of Darmstadt, Germany
+Kai Holländer, LMU Munich, Germany
+Debargha Dey, Eindhoven University of Technology, The Netherlands
+Azra Habibovic, RISE Research Institutes of Sweden
+Andrew L. Kun, University of New Hampshire, US
+Susanne Boll, University of Oldenburg, Germany
+Andreas Riener, Technische Hochschule Ingolstadt (THI), Germany

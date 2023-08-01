@@ -1,0 +1,62 @@
+- Sorry for cross-postings -
+
+We are pleased to announce the following onsite workshop offered in conjunction with the 14th International ACM Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI 2022):
+
+-------------------------------------------------------------------------------
+A3WS - International Perspective on Inclusive External Human-Machine Interfaces
+
+On-site (Seoul, South Korea); 18th September, 2022
+in conjunction with AutomotiveUI 2022 (https://www.auto-ui.org/22/)
+
+Workshop website: https://a3ws.github.io/AutoUI22/
+Submission deadline (position paper - not mandatory): September 9th, 2022
+Submission via EasyChair: https://easychair.org/my/conference?conf=a3wsautoui22
+-------------------------------------------------------------------------------
+
+---------------------| IMPORTANT DATES FOR THE WORKSHOP |----------------------
+* Submission deadline: September 9th, 2022
+* Notification of acceptance: September 14th, 2022
+* Workshop date: September 18th, 2022
+
+----------| OBJECTIVES: Inclusive Communication between AVs and VRUs |---------
+Automated vehicles (AVs) are expected to become a part of the road traffic in the near future. This upcoming change raises concerns about how human vulnerable road users (VRUs), e.g., cyclists or pedestrians, would interact with them to ensure safe communication on the road. Previous work focused primarily on the scenario in which a young adult without impairments crosses a street in front of an automated vehicle. Several road user groups, such as children, seniors, or people with special needs, in the roles of pedestrians and cyclists, are not considered in this scenario. On top of this, cultural differences are rarely considered. To ensure that future traffic is safe and accessible for all citizens, we aim to address inclusive communication between automated vehicles and vulnerable road users. In this workshop, we will discuss and exchange methods, tools, and scenarios applicable for inclusive communication, identify the most relevant research gaps, and connect people for future collaborations.
+
+------------------------------| WORKSHOP THEMES |------------------------------
+Potential topics to be discussed at the workshop include, but are not limited to:
+* Overview on the current state and research gaps in research on interactions between AVs and VRUs
+* Communication concepts for underrepresented user groups, such as
+  - Children
+  - People with impaired vision
+  - Older adults
+* Guidelines for inclusive design from related domains, such as
+  - Mobile Human-Computer Interaction
+  - Human-Robot Interaction
+
+-------------------------------| PARTICIPATION |-------------------------------
+This workshop invites people from different cultures, backgrounds, and affiliations to explore the interplay of automated vehicles and other road users. The workshop emphasizes cultural differences, diversity, and inclusive design solutions for the interaction of AVs and VRUs.
+
+We welcome researchers and practitioners with interest in accessible technology, interactive technologies for children, seniors, or people with impairments, or automotive user interfaces. Specifically, we want to reach those developing interfaces for traffic participants (e.g., pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually impaired people), or external human-machine interfaces for AVs.
+
+Participants are invited (but not required) to submit position papers to the workshop. The
+review process will be conducted by a program committee consisting of the
+organizers.
+
+--------------------------------| SUBMISSIONS |--------------------------------
+Participants are invited to submit a position paper of two to four pages, not counting references, via EasyChair by September 9th, 2022. The template is based on the ACM Conference Proceedings “Master” Template version 1.87. Submissions are not anonymous, but reviews will be done anonymously (single-blind). Each paper will receive at least two reviews. Please check our website for the template and the details: https://a3ws.github.io/AutoUI22/Participate#paper
+
+-----------------------------| WEBSITE & CONTACT |-----------------------------
+For further information, have a look at https://a3ws.github.io/AutoUI22/Participate
+You may also contact the workshop organizers directly: https://a3ws.github.io/AutoUI22/Organizers/
+
+---------------------------------| ORGANIZERS |--------------------------------
+Andreas Löcken, Technische Hochschule Ingolstadt (THI), Germany
+Andrii Matviienko, Technical University of Darmstadt, Germany
+Mark Colley, Ulm University, Germany
+Debargha Dey, Eindhoven University of Technology, The Netherlands
+Azra Habibovic, RISE Research Institutes of Sweden
+Yee Mun Lee, Institute for Transport Studies, University of Leeds
+Andreas Riener, Technische Hochschule Ingolstadt (THI), Germany
+
+Looking forward to hearing from you.
+
+ 

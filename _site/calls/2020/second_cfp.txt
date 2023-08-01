@@ -1,0 +1,124 @@
+[our apologies if you receive multiple copies of this CfP]
+
+We are pleased to announce the following virtual workshop offered in 
+conjunction with the 22nd International Conference on Human-Computer 
+Interaction with Mobile Devices and Services (MobileHCI 2020):
+
+-------------------------------------------------------------------------------
+ WeCARe: Workshop on Inclusive Communication between 
+         Automated Vehicles and Vulnerable Road Users 
+
+ Virtual (Oldenburg, Germany); Early October, 2020 
+ in conjunction with MobileHCI 2020 (https://mobilehci.acm.org/2020/)
+
+ Workshop website: https://wecare-workshop.github.io/
+ Submission deadline (position paper or video): August 6th, 2020 
+ Submission via EasyChair: https://easychair.org/cfp/WeCARe2020
+-------------------------------------------------------------------------------
+
+===============================================================================
+ Due to the measures against COVID-19, this workshop will be held online.    
+ Some details may still change. Please check the website for updates.        
+===============================================================================
+
+
+---------------------| IMPORTANT DATES FOR THE WORKSHOP |----------------------
+* Submission deadline: August 6th, 2020
+* Notification of acceptance: August 2020
+* Camera-ready version due: September 2020
+* Workshop date: Early October 2020
+
+
+----------| OBJECTIVES: Inclusive Communication between AVs and VRUs |---------
+Automated vehicles (AVs) are expected to become a part of the road traffic in
+the near future. This upcoming change raises concerns on how human vulnerable
+road users (VRUs), e.g., cyclists or pedestrians, would interact with them to
+ensure safe communication on the road. Previous work focused primarily on the
+scenario in which a young adult without impairments crosses a street in front
+of an automated vehicle. Several road user groups, such as children, seniors,
+or people with special needs, in roles of pedestrians and cyclists, are not
+considered in this scenario. On top of this, cultural differences are rarely
+considered. To ensure that future traffic is safe and accessible for all
+citizens, we aim to address inclusive communication between automated
+vehicles and vulnerable road users. In this workshop, we will discuss and
+exchange methods, tools, and scenarios applicable for inclusive
+communication, identify the most relevant research gaps, and connect people
+for future collaborations.
+
+
+------------------------------| WORKSHOP THEMES |------------------------------
+Potential topics to be discussed at the workshop include, but are not limited
+to:
+* Overview on the current state and research gaps in research on
+  interactions between AVs and VRUs
+* Communication concepts for underrepresented user groups, such as
+  - Children
+  - People with impaired vision
+  - Older adults
+* Guidelines for inclusive design from related domains, such as
+  - Mobile Human-Computer Interaction
+  - Human-Robot Interaction
+
+
+-------------------------------| PARTICIPATION |-------------------------------
+This workshop welcomes researchers and practitioners with interest in
+accessible technology, interactive technologies for children, seniors, or
+people with impairments, or automotive user interfaces. Specifically, we want
+to reach those developing mobile interfaces for traffic participants (e.g.,
+pedestrians, or cyclists), inclusive interfaces (addressing, e.g., visually
+impaired people), or external human-machine interfaces for AVs. This workshop
+aims at providing an overview of the current state of the research for
+interaction between AVs and VRUs. We want to identify the research gap and
+raise awareness for lowering the barriers to traffic participation. The
+participants can expect experience and live feedback in designing inclusive
+interfaces. Further, we plan to establish communication with workshop
+attendees for future (international) collaborations.
+Participants are invited to submit papers or videos to the workshop. The
+review process will be conducted by a program committee consisting of the
+organizers. Registration for the workshop is mandatory for all workshop
+participants and will be EUR 30 (or EUR 20 for early registrations).
+
+
+--------------------------------| SUBMISSIONS |--------------------------------
+Participants are invited to submit a three-minute video or a position paper of
+two to four pages, not counting references, via EasyChair by August 6th, 2020.
+All submissions must follow the new ACM Conference Proceedings "Master" 
+Template: https://www.acm.org/publications/taps/word-template-workflow/.
+Submissions are not anonymous but reviews will be done anonymously
+(single-blind). Each paper will receive at least two reviews. All accepted
+papers will be published online before the beginning of the workshop.
+
+
+-----------------------------| WEBSITE & CONTACT |-----------------------------
+For further information have a look at https://wecare-workshop.github.io/.
+You may also contact the workshop organizers directly or send an e-mail to
+wecare2020@pm.me.
+
+
+---------------------------------| ORGANIZERS |--------------------------------
+Andreas Löcken, Technische Hochschule Ingolstadt (THI), Germany
+Mark Colley, Ulm University, Germany
+Andrii Matviienko, Technical University of Darmstadt, Germany
+Kai Holländer, LMU Munich, Germany
+Debargha Dey, Eindhoven University of Technology, The Netherlands
+Azra Habibovic, RISE Research Institutes of Sweden
+Andrew L. Kun, University of New Hampshire, US
+Susanne Boll, University of Oldenburg, Germany
+Andreas Riener, Technische Hochschule Ingolstadt (THI), Germany
+
+
+----------------------------------| FUNDING |----------------------------------
+A. Löcken is supported by the German Federal Ministry of Transport and Digital 
+Infrastructure (BMVI) through the Automated and Connected Driving funding 
+program under Grant No. 16AVF2145F (SAVe). M. Colley works within the project 
+'Interaction between automated vehicles and vulnerable road users' 
+(Intuitiver) funded by the Ministry of Science, Research and Arts of the State 
+of Baden-Württemberg. A. Habibovic is supported by the Swedish Strategic 
+Vehicle Research and Innovation programme (FFI) through the project External 
+interaction principles for creating trust in heavy automated vehicles 
+(ref 2019-05901). A. Kun was supported in part by NSF grant CMMI-1840085.
+
+
+
+
+Looking forward to hearing from you.

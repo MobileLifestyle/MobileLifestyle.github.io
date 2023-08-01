@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Accessible Automated Automotive Workshop Series (A3WS)"
+title: "Prototyping Mobile Lifestyles"
 #layout: single
 classes: wide
 layout: home
@@ -22,12 +22,11 @@ gallery:
     alt: "Example of a van build using vARspace as a prototyping method."
     title: "Example of a van build using vARspace as a prototyping method."
 ---
-<p> <span style="font-size: 1.5em">International Perspective on Inclusive External Human-Machine Interfaces</span><br/>
-In conjunction with AutomotiveUI 2023, September 18, Ingolstadt, Germany.</p>
+<p> <span style="font-size: 1 em"> In conjunction with AutomotiveUI 2023, September 18, Ingolstadt, Germany.</span>
 
 {% include gallery caption="Communication concepts for automated vehicles exist (left). But, are they inclusive for all vulnerable road users, including, for example, blind people (center) or older adults (right)?" %}
 
-Automated mobility is expected to drastically alter the way people move [[4]({{site.baseurl}}/References/#ref4)]. In the case of automated vehicles (AVs),
+Automated mobility is expected to drastically alter the way people move [[4]({{site.baseurl}}/References/#ref4)]. [[2]({{site.baseurl}}/References/#ref2)]  In the case of automated vehicles (AVs),
 allowing the driver to become a passenger unlocks the capacity for non-driving-related activities such as reading,
 sleeping [[3]({{site.baseurl}}/References/#ref3)], or working [[8]({{site.baseurl}}/References/#ref8)].
 With these changes, the design of AVs as well as the interaction within and with the AVs will change. This workshop,

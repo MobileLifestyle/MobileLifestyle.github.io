@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prototyping Mobile Lifestyles"
+title: "Prototyping Mobile Lifestyles hi"
 #layout: single
 classes: wide
 layout: home

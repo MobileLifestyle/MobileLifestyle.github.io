@@ -8,20 +8,20 @@ sidebar:
 - text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>9:00</td>        <td><i>Welcome</i></td>      </tr>      <tr>        <td>9:15</td>        <td>Prototyping Methods</td>      </tr>      <tr>        <td>9:30</td>        <td>Session 1&colon; Introducing Methods</td>     </tr>      <tr>        <td>10:00</td>        <td><i>Break</i></td>      </tr>      <tr>        <td>10:15</td>        <td>Session 2&colon; Brainstorming</td>      </tr>      <tr>        <td>10:30</td>        <td>Presenting Method</td>      </tr>      <tr>        <td>10:45</td>        <td>Session 3&colon; Designing Van</td>      </tr>      <tr>        <td>12:15</td>        <td>Presentations</td>      </tr>      <tr>        <td>12:50</td>        <td>Wrap-up</td>      </tr>      <tr>        <td>13:00</td>        <td><i>End</i></td>      </tr>      </tbody>  </table>
 
 gallery:
-  - url: /assets/images/lightningtalk.jpg
-    image_path: /assets/images/lightningtalk_thumb.jpg
-    alt: "A short presentation (lightning talk) on an exciting topic."
-    title: "A short presentation (lightning talk) on an exciting topic."
-  - url: /assets/images/worldcafe.jpg
-    image_path: /assets/images/worldcafe_thumb.jpg
-    alt: "One of the world café tables at a previous workshop."
-    title: "One of the world café tables at a previous workshop."
+  - url: /assets/images/example1.jpg
+    image_path: /assets/images/example1.jpg
+    alt: "Designing something interesting"
+    title: "Designing something interesting"
+  - url: /assets/images/example2.jpg
+    image_path: /assets/images/example2.jpg
+    alt: "Cardboard Prototyping"
+    title: "Cardboard Prototyping"
 ---
 
 This may be updated before the workshop. 
 {: .align--left .notice--warning  }
 
-{% include gallery caption="Examples for the interactive parts of the workshop: a short lightning talk (left) and a world café table in the middle of a discussion (right)." %}
+{% include gallery caption="Examples for the interactive parts of the workshop" %}
 
 ## Before the Conference
 Before the conference, participants will receive a welcoming message containing an introduction to the workshop. 

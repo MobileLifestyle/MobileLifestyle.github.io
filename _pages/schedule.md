@@ -24,7 +24,7 @@ This may be updated before the workshop.
 {% include gallery caption="Examples for the interactive parts of the workshop" %}
 
 ## Before the Conference
-Before the conference, participants will receive a welcoming message containing an introduction to the workshop. 
+Participants will receive a correspondence containing an introduction to the workshop. 
 
 ## At the Workshop
 The workshop schedule is outlined in the sidebar table. We begin with a brief introduction from the event organizers (*Welcome*). Professor Wendy Ju will then give a talk about *Prototyping Methods*
@@ -35,7 +35,7 @@ discussions.
 
 The main part of this workshop starts with session 1, *Introducing Methods* where the participants  introduce their prototyping method to each other. This will allow the participants to think of what prototyping method to use to design a van.
 We will then randomly split participants into four to six groups (depending on attendance). 
-After a break the participants will continue to discuss in their groups, based on the question *How would you prototype your Vanlife van based on the methods that were introduced in session 1?* The topics of the discussions can be changed to reflect better the interests of the participants and the submitted position papers. 
+After a break the participants will continue to discuss in their groups, based on the question *How would you prototype your Vanlife van based on the methods that were introduced in session 1?* The topics of the discussions can be changed to better reflect the interests of the participants and the submitted position papers.
 
 Topics: 
 1. What are the different ways we can prototype a Vanlife van?

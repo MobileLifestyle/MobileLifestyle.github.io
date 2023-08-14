@@ -26,12 +26,12 @@ You have two options for participation:
 * Participate without presenting your position (no submissions needed). 
 
 
-To register for the workshop please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScBMCOIWrQfsISUA3Z47zBlSdPpfKoFzmL4TD-SioOGlIoBNw/viewform?usp=sf_link" target="_blank">google form.</a>
+To register for the workshop please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScBMCOIWrQfsISUA3Z47zBlSdPpfKoFzmL4TD-SioOGlIoBNw/viewform?usp=sf_link" target="_blank">Google Form.</a>
 
 ## Paper 
 Participants are invited to submit position papers, but are not required to do so. 
 Submissions **need not be anonymous**. However, reviews will be done anonymously. Each paper will be reviewed by at least two organizers of this workshop with regard to its contribution to the workshop. **All accepted submissions will be published online** on this website but not in the ACM Digital Library. 
-The generated PDF should be submitted via <a href="https://docs.google.com/forms/d/e/1FAIpQLScBMCOIWrQfsISUA3Z47zBlSdPpfKoFzmL4TD-SioOGlIoBNw/viewform?usp=sf_link" target="_blank">google form.</a>
+The generated PDF should be submitted via <a href="https://docs.google.com/forms/d/e/1FAIpQLScBMCOIWrQfsISUA3Z47zBlSdPpfKoFzmL4TD-SioOGlIoBNw/viewform?usp=sf_link" target="_blank">Google Form.</a>
 
 ### Paper Format 
 A paper must be between two and four pages long, not including references, in the newest preview version of [ACM Conference Proceedings "Master" Template version 1.87](https://github.com/a3ws/acmart_workshoptemplate/releases/download/1.87-a3ws/template_1.87.zip). 

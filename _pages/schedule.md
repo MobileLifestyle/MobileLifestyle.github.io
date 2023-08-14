@@ -12,8 +12,8 @@ gallery:
     image_path: /assets/images/example1.jpg
     alt: "Designing something interesting"
     title: "Designing something interesting"
-  - url: /assets/images/example2.jpg
-    image_path: /assets/images/example2.jpg
+  - url: /assets/images/Cardboard_prototyping.png
+    image_path: /assets/images/Cardboard_prototyping.png
     alt: "Cardboard Prototyping"
     title: "Cardboard Prototyping"
 ---

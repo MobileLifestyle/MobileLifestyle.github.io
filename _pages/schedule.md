@@ -8,9 +8,9 @@ sidebar:
 - text: <table>    <thead>      <tr>        <th>Time</th>        <th>Topic</th>      </tr>    </thead>    <tbody>      <tr>        <td>9:00</td>        <td><i>Welcome</i></td>      </tr>      <tr>        <td>9:15</td>        <td>Prototyping Methods</td>      </tr>      <tr>        <td>9:30</td>        <td>Session 1&colon; Introducing Methods</td>     </tr>      <tr>        <td>10:00</td>        <td><i>Break</i></td>      </tr>      <tr>        <td>10:15</td>        <td>Session 2&colon; Brainstorming</td>      </tr>      <tr>        <td>10:30</td>        <td>Presenting Method</td>      </tr>      <tr>        <td>10:45</td>        <td>Session 3&colon; Designing Van</td>      </tr>      <tr>        <td>12:15</td>        <td>Presentations</td>      </tr>      <tr>        <td>12:50</td>        <td>Wrap-up</td>      </tr>      <tr>        <td>13:00</td>        <td><i>End</i></td>      </tr>      </tbody>  </table>
 
 gallery:
-  - url: /assets/images/example1.jpg
-    image_path: /assets/images/example1.jpg 
-    alt: "Designing something interesting"
+  - url: /assets/images/lego_van.jpg
+    image_path: /assets/images/lego_van.jpg 
+    alt: "Van prototype using legos"
     title: "Designing something interesting"
   - url: /assets/images/Cardboard_prototyping.png
     image_path: /assets/images/Cardboard_prototyping.png

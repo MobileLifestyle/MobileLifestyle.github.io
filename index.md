@@ -26,6 +26,6 @@ gallery:
 
 {% include gallery caption="Communication concepts for automated vehicles exist (left). But, are they inclusive for all vulnerable road users, including, for example, blind people (center) or older adults (right)?" %}
 
-Automated mobility is expected to drastically alter the way people move [<a href="/autoui23.github.io/References/#ref4">4</a>]. In the case of automated vehicles (AVs), allowing the driver to become a passenger unlocks the capacity for non-driving-related activities such as reading,
-sleeping [<a href="/autoui23.github.io/References/#ref3">3</a>], or working [<a href="/autoui23.github.io/References/#ref8">8</a>]. With these changes, the design of AVs as well as the interaction within and with the AVs will change. This workshop, therefore, focuses on design methods to sketch the future of interaction design for AVs with a special focus on how this
+Automated mobility is expected to drastically alter the way people move [<a href="/References/#ref4">4</a>]. In the case of automated vehicles (AVs), allowing the driver to become a passenger unlocks the capacity for non-driving-related activities such as reading,
+sleeping [<a href="/References/#ref3">3</a>], or working [<a href="/References/#ref8">8</a>]. With these changes, the design of AVs as well as the interaction within and with the AVs will change. This workshop, therefore, focuses on design methods to sketch the future of interaction design for AVs with a special focus on how this
 translates to and from the phenomenon of Vanlife.

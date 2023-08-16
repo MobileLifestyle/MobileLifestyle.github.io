@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-repository: autoui23.github.io
+repository: MobileLifestyle.github.io
 title: "Prototyping Mobile Lifestyles"
 email: ""
 description: "Prototyping Mobile Lifestyles"
-baseurl: "/autoui23.github.io" # the subpath of your site, e.g. /blog
-url: "https://stwicole.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://MobileLifestyle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -118,7 +118,7 @@ footer:
   links:
     - label: "Impressum"
       icon: "fa fa-fw fa-info"
-      url: "/AutoUI22/Impressum/"
+      url: "/AutoUI23/Impressum/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       url: "https://github.com/"

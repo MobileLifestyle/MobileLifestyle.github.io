@@ -13,10 +13,6 @@ sidebar:
         <li><b>Workshop Day</b>: <br/> September 18th, 2023 (see <a href='Schedule'>Schedule</a>)</li>
         </ul>"
 ---
-The workshop focuses on inclusion, which relates not only to accessibility but also to cultural differences and diversity.
-We invite researchers and practitioners from different cultures, backgrounds, and disciplines to explore inclusive
-interaction between AVs and other road users. Their interests may involve inclusion or assistive devices for children,
-seniors, or people with disabilities, but also vehicular user interfaces. 
 
 Whether you're an interior design enthusiast, or seasoned van lifer, this workshop is the perfect platform to explore various prototyping methods and design the perfect interior of a van. Unleash your creativity, receive expert guidance, and connect with a community filled with interesting individuals. Participants who have any interest in van life and or design are welcome to join. 
 

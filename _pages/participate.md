@@ -73,19 +73,7 @@ although this research gap is well known.
 6. Create and deepen connections between interdisciplinary researchers for (international) cooperation.
 7. Finding new prototyping methods for Vanlife.
 
-### Workshop Themes
-Potential topics to be discussed at the workshop include, but are not limited to: 
-* Concept of creating a van fit for vanlife 
-  * Life-style
-  * What to include inside
-  * Budget
-* Prototyping and designing methods
-  * Creating new methods
-  * How complicated is it to use
-  * Using and interacting with the prototyping methods
-* Designs
-  * Uniqueness of each design, based on the different prototyping and designing methods used
-* Imagining potential use cases for future vehicles 
+
 
 
 
